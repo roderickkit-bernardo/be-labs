@@ -173,7 +173,13 @@ npm run start
 
 1. Create a folder named **submit**.
 
-2. Copy **post.png, get.png, put.png, delete.png, and invalid.png** to the **submit folder**.
+:::danger Delete node_modules
+
+Delete the **node_modules** folder on **any app that you are submitting**.
+
+:::
+
+2. Copy the **Express-API** folder and all the screenshots **(post.png, get.png, put.png, delete.png, and invalid.png)** to the **submit folder**.
 
 3. Create a **zip** file of the **submit folder**.
 

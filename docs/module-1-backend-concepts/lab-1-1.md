@@ -319,7 +319,13 @@ npm run start-js
 
 1. Create a folder named **submit**.
 
-2. Copy the **node01.png**, **node02.png**, **node03.png**, **node04.png**, **node05.png** and **node06.png** to the **submit folder**.
+:::danger Delete node_modules
+
+Delete the **node_modules** folder on **any app that you are submitting**.
+
+:::
+
+2. Copy the **First-Node-Js-App** folder and all the screenshots **(node01.png**, **node02.png**, **node03.png**, **node04.png**, **node05.png** and **node06.png)** to the **submit folder**.
 
 3. Create a **zip** file of the **submit folder**.
 
