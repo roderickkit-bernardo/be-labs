@@ -115,7 +115,7 @@ app.delete("/", (req: Request, res: Response) => {
   res.json({ message: "DELETE Method = Delete (CRUD)" });
 });
 
-app.all("/{*catchAll}", (req, res) => {
+app.all("/{*catchAll}", (req: Request, res: Response) => {
   res.status(404).json({
     message: `Invalid route (${req.url}) or HTTP method (${req.method}).`,
   });

@@ -105,7 +105,7 @@ import express, { type Request, type Response } from "express";
 const PORT: number = process.env.PORT ? parseInt(process.env.PORT) : 3000;
 const app = express();
 
-app.all("/{*catchAll}", (req, res) => {
+app.all("/{*catchAll}", (req: Request, res: Response) => {
   res.status(404).json({
     message: `Invalid route (${req.url}) or HTTP method (${req.method}).`,
   });
@@ -303,7 +303,7 @@ const app = express();
 app.use(express.json());
 app.use("/api/users", userRouter);
 
-app.all("/{*catchAll}", (req, res) => {
+app.all("/{*catchAll}", (req: Request, res: Response) => {
   res.status(404).json({
     message: `Invalid route (${req.url}) or HTTP method (${req.method}).`,
   });
