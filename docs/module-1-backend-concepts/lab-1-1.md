@@ -276,7 +276,7 @@ npm run build
 npm run start-js
 ```
 
-10. Take a screenshot of the terminal output and save it as **node04.png**.
+11. Take a screenshot of the terminal output and save it as **node04.png**.
 
 ### Custom TypeScript code
 

@@ -95,7 +95,9 @@ npm install @types/express -D
 
 import * as dotenv from "dotenv";
 dotenv.config();
+
 import express, { type Request, type Response } from "express";
+
 const PORT: number = process.env.PORT ? parseInt(process.env.PORT) : 3000;
 const app = express();
 

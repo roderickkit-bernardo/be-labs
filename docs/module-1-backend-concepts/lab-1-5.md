@@ -132,7 +132,9 @@ export function compressResponse(
 
 import * as dotenv from "dotenv";
 dotenv.config();
+
 import express, { type Request, type Response } from "express";
+
 const PORT: number = process.env.PORT ? parseInt(process.env.PORT) : 3000;
 const app = express();
 
@@ -167,13 +169,13 @@ function shutdown() {
 }
 ```
 
-15. Build the app by running the following command:
+20. Build the app by running the following command:
 
 ```bash
 npm run build
 ```
 
-16. Start the app by running the following command:
+21. Start the app by running the following command:
 
 ```bash
 npm run start
