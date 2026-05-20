@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API Compression Lab
+## Express.js API Compression Lab
 
 - Students will learn how to **integrate** and **configure compression middleware** in an **Express.js app**. They will understand the importance of **response compression** in **improving API performance** and **reducing bandwidth usage**.
 

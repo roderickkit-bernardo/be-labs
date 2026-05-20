@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API Cache Lab
+## Express.js API Cache Lab
 
 - Introduce students to the concepts and practices of **caching in Node.js applications**. Caching can significantly **enhance the performance and scalability of applications** by **reducing the load on databases and other backend services**. By the end of this lab, students will have hands-on experience implementing caching strategies using popular caching tools.
 

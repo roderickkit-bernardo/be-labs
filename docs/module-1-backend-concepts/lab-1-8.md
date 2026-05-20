@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API Pagination Lab
+## Express.js API Pagination Lab
 
 - In this lab, students will learn how to implement **pagination in an Express.js application**. Pagination is **essential for managing large datasets** and **improving the user experience** by **loading data in manageable chunks**. Students will practice creating paginated endpoints and understand how to handle query parameters to fetch specific subsets of data.
 

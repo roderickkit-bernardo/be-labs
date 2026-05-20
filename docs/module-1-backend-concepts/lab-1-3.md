@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API MVC Lab
+## Express.js API MVC Lab
 
 - In this lab, you will build a **RESTful API using Express.js** following the **MVC (Model-View-Controller) design pattern**. You will learn how to organize your project into **routes**, **controllers**, **services**, and **models** to write clean, maintainable, and scalable code.
 

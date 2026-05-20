@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API Helmet Lab
+## Express.js API Helmet Lab
 
 - This lab focuses on integrating **Helmet**, a **security middleware for Express.js applications**, to enhance security by setting various HTTP headers.
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **(2% of the course mark)**
 
-## Express js API Keys Lab
+## Express.js API Keys Lab
 
 - In this lab, students will learn how to **securely manage API keys** within a Node.js Express application. This involves understanding best practices for **handling sensitive information**, **using environment variables**, and **integrating a configuration management tool**. By the end of this lab, students will be able to securely store and access API keys in their applications, reducing the risk of exposure and ensuring better security practices.
 
