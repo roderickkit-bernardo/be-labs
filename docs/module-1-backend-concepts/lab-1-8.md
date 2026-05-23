@@ -90,11 +90,13 @@ npm install @types/express -D
 "type": "module"
 ```
 
-14. In the **repositories folder**, create a file named **photosRepository.ts** and add the following code, from the file below:
+14. In the root folder of the app, create a folder named **repositories**.
+
+15. In the **repositories folder**, create a file named **photosRepository.ts** and add the following code, from the file below:
 
 [**photosRepository.ts**](/img/common/lab1/photosRepository.ts)
 
-15. Update **photosRepository.ts** and on the top of file, add the following code:
+16. Update **photosRepository.ts** and on the top of file, add the following code:
 
 ```js
 export interface Photo {
@@ -106,9 +108,9 @@ export interface Photo {
 }
 ```
 
-16. In the root folder of the app, create a folder named **lib**.
+17. In the root folder of the app, create a folder named **lib**.
 
-17. In the **lib folder**, create a file named **utils.ts** and add the following code:
+18. In the **lib folder**, create a file named **utils.ts** and add the following code:
 
 ```js
 // Developer:
@@ -158,7 +160,7 @@ export function findByIndex(index: number, maxRecords: number) {
 }
 ```
 
-18. Create a file named **index.ts** and add the following code:
+19. Create a file named **index.ts** and add the following code:
 
 ```js
 // Developer:
@@ -203,13 +205,13 @@ function shutdown() {
 }
 ```
 
-19. Build the app by running the following command:
+20. Build the app by running the following command:
 
 ```bash
 npm run build
 ```
 
-20. Start the app by running the following command:
+21. Start the app by running the following command:
 
 ```bash
 npm run start

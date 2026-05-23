@@ -208,7 +208,7 @@ Delete the **node_modules** folder on **any app that you are submitting**.
 
 :::
 
-2. Copy the **Express-API-KEYS** folder and all the screenshots **(key-missing.png, key-unauthorized.png, and key-authorized.png)** to the **submit folder**. Write your **conclusions** in the **Comments text area**.
+2. Copy the **Express-API-KEYS** folder and all the screenshots **(key-missing.png, key-unauthorized.png, and key-authorized.png)** to the **submit folder**.
 
 3. Create a **zip** file of the **submit folder**.
 
