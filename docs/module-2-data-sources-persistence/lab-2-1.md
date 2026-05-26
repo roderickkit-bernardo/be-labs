@@ -41,7 +41,7 @@ docker pull mysql
 2. Download the **MongoDB Docker image** by entering the following command:
 
 ```bash
-docker pull mysql
+docker pull mongo
 ```
 
 ### Create Docker containers
