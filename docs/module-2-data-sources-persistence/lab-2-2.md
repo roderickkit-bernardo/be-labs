@@ -58,7 +58,7 @@ sidebar_position: 1
 
 ### Connect and Use DB
 
-1. Open **MySQL Workbench** and click mysql-container connection to connect the MySQL db server.
+1. Open **MySQL Workbench** and click **mysql-container** connection to connect to the **Docker MySQL db server**.
 
 2. Create the database: company_db, On the **Query tab** enter the following **sql statements** and **click the execute icon ⚡**.
 
